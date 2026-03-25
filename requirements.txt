@@ -1,6 +1,6 @@
 langgraph
 langchain
-langchain-openai
+langchain-groq
 python-dotenv
-weasyprint
+xhtml2pdf
 jinja2
